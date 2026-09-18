@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Novolis.Mapping/Novolis.Mapping.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Novolis.Mapping.Unit/Novolis.Mapping.Unit.csproj" />
+  </Folder>
+</Solution>
